@@ -1,0 +1,3 @@
+101 :--> ajithkumar,50,55000,racer
+102 :--> varun,20,20000,sales
+103 :--> simas,45,60000,boss
